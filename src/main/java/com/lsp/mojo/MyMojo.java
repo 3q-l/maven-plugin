@@ -1,4 +1,4 @@
-package com.zyjk.mojo;
+package com.lsp.mojo;
 
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;
